@@ -1,8 +1,8 @@
 ## 👋 Olá! Me chamo Gabriel Tadeu
   
 - 👀 Atualmente trabalho como Freelancer com front-end
-- 🌱 Aprofundando os conhecimentos em Javascript
-- 😆 Pronomes: ele/dele
+- 🌱 Aprofundando os conhecimentos em React / NodeJS
+
 
 <div>
  <a href="https://github.com/gtmnew/github-readme-stats">
