@@ -1,6 +1,6 @@
 ## 👋 Olá! Me chamo Gabriel Tadeu
   
-- 👀 Atualmente trabalho como freelancer com Frontend
+- 👀 Atualmente trabalho como freelancer com Front end
 - 🌱 Aprofundando os conhecimentos em React / NodeJS
 
 
