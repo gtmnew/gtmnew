@@ -1,8 +1,5 @@
 ## 👋 Olá! Me chamo Gabriel Tadeu
   
-- 👀 Atualmente trabalho como freelancer com Front end
-- 🌱 Aprofundando os conhecimentos em React / NodeJS
-
 
 <div>
  <a href="https://github.com/gtmnew/github-readme-stats">
